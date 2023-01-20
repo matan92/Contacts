@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emails">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="phones">
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Home</item>
+        <item>Custom</item>
+        <item>Assistant</item>
+        <item>Other</item>
+        <item>Callback</item>
+        <item>Car</item>
+        <item>Company</item>
+        <item>FaxHome</item>
+        <item>FaxWork</item>
+        <item>OtherFax</item>
+        <item>ISDN</item>
+        <item>Main</item>
+        <item>MMS</item>
+        <item>Pager</item>
+        <item>Radio</item>
+        <item>Telex</item>
+        <item>TTY_TDD</item>
+        <item>WorkMobile</item>
+        <item>WorkPager</item>
+
+    </string-array>
+</resources>
